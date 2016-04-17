@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Base Calculator</string>
+    <string name="Button">Berechnen</string>
+    <string name="result">Ergebnis</string>
+    <string name="value">Wert</string>
+    <string name="targetBase">Zielbasis</string>
+    <string name="base">Basis</string>
+    <string name="invalid">Unzulässige Aktion</string>
+
+</resources>
